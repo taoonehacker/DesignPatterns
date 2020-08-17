@@ -1,0 +1,12 @@
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/bin/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.deps.json
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/bin/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.runtimeconfig.json
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/bin/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.runtimeconfig.dev.json
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/bin/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.dll
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/bin/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.pdb
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.csprojAssemblyReference.cache
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.AssemblyInfoInputs.cache
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.AssemblyInfo.cs
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.dll
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.pdb
+/Users/tao/Projects/GitHub/DesignPattern/TaoOneHacker.DesignPattern/TaoOneHacker.DesignPattern.FactoryMethod/obj/Debug/netcoreapp3.1/TaoOneHacker.DesignPattern.FactoryMethod.genruntimeconfig.cache

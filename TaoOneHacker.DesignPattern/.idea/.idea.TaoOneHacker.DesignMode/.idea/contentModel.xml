@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_TaoOneHacker.DesignMode.1650902859.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="BehavioralDesignPatterns" t="Include" />
+      <e p="CreationalDesignPatterns" t="Include" />
+      <e p="StructuralDesignPatterns" t="Include" />
+      <e p="TaoOneHacker.DesignMode.sln" t="IncludeFlat" />
+      <e p="TaoOneHacker.DesignPattern.FactoryMethod" t="IncludeRecursive">
+        <e p="TaoOneHacker.DesignPattern.FactoryMethod.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

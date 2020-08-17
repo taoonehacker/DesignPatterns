@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CreationalDesignPatterns", "CreationalDesignPatterns", "{A52A8CE3-A4C6-4771-9005-BE9C96C5D56F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StructuralDesignPatterns", "StructuralDesignPatterns", "{D75F0DEE-0848-4F45-AC45-2337E556B4D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralDesignPatterns", "BehavioralDesignPatterns", "{70E35B48-64F5-4E53-BD65-0A94FD70F82C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaoOneHacker.DesignPattern.FactoryMethod", "TaoOneHacker.DesignPattern.FactoryMethod\TaoOneHacker.DesignPattern.FactoryMethod.csproj", "{8ECC4F07-14CC-480D-A2E9-462E6C5F1236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ECC4F07-14CC-480D-A2E9-462E6C5F1236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ECC4F07-14CC-480D-A2E9-462E6C5F1236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ECC4F07-14CC-480D-A2E9-462E6C5F1236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ECC4F07-14CC-480D-A2E9-462E6C5F1236}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8ECC4F07-14CC-480D-A2E9-462E6C5F1236} = {A52A8CE3-A4C6-4771-9005-BE9C96C5D56F}
+	EndGlobalSection
+EndGlobal
